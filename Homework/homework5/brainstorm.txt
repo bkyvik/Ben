@@ -1,0 +1,21 @@
+1. 
+	a. Gravitational Waves
+	b. Cosmic Microwave Background
+	c. Gravitational Lensing
+	d. Higgs Boson
+	e. Quantum Tunneling
+
+2.
+	a. Gravitational-Wave Transient Catalog (GWTC) contains hundreds of
+	gravitational wave transients observed by LIGO
+	b. Legacy Archive for Microwave Background Data Analysis (LAMBDA) is a NASA
+	dataset that contains data from countless experiments and obersations of
+	the Cosmic Microwave Background
+	c. The CASTLES Survey is a dataset that contains over a hundred Multiply
+	Imaged Systems whose appearance is distorted due to gravitational lensing 
+3. Maybe I could use conditionals, loops, and dictionaries to sort through data in
+the CASTLES dataset
+4. I could try to make an interactive graph program that generates graphics for 
+comparing different items in the dataset. Less ambitiously, I could make a "search
+engine" in which users could filter through CASTLES items based on desired criteria
+
